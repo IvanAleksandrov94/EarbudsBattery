@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Earbuds Battery for Smartspacer</string>
+    <string name="target_label">Earbuds battery</string>
+    <string name="target_description">Choose earbuds to show the case, left and right battery levels.</string>
+    <string name="select_device">Select device</string>
+    <string name="loading_devices">Loading devices…</string>
+    <string name="choose_device_hint">Select one or more devices. The case and both earbuds appear in one card. Connect a device once to save it in the list.</string>
+    <string name="saved_devices">Saved devices</string>
+    <string name="save_devices">Save</string>
+    <string name="disconnected_device">Disconnected · last known battery levels</string>
+    <string name="no_devices">Connect your earbuds and open the case, then tap Refresh. Devices with separate battery levels will appear here.</string>
+    <string name="device_source_error">Could not load battery data. Check Bluetooth and your earbuds connection, then try again.</string>
+    <string name="refresh_devices">Refresh</string>
+    <string name="source_missing">This Android build does not provide the required system battery data or Google battery widget.</string>
+    <string name="battery_line">Case %1$s · L %2$s · R %3$s</string>
+    <string name="bluetooth_permission_hint">Allow Nearby devices access to hide the card as soon as your earbuds disconnect. If the permission prompt no longer appears, enable access in the app settings.</string>
+    <string name="bluetooth_permission_button">Allow Bluetooth access</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Earbuds Battery for Smartspacer</string>
+    <string name="target_label">Заряд наушников</string>
+    <string name="target_description">Выберите наушники: заряд кейса, левого и правого наушника.</string>
+    <string name="select_device">Выбрать устройство</string>
+    <string name="loading_devices">Загрузка устройств…</string>
+    <string name="choose_device_hint">Выберите одно или несколько устройств. Кейс и оба наушника отображаются одной карточкой. Подключите устройство один раз, чтобы сохранить его в списке.</string>
+    <string name="saved_devices">Сохранённые устройства</string>
+    <string name="save_devices">Сохранить</string>
+    <string name="disconnected_device">Не подключено · последний известный заряд</string>
+    <string name="no_devices">Подключите наушники и откройте кейс, затем нажмите «Обновить». Здесь появятся устройства с раздельным зарядом.</string>
+    <string name="device_source_error">Не удалось получить данные. Проверьте Bluetooth и подключение наушников, затем повторите.</string>
+    <string name="refresh_devices">Обновить</string>
+    <string name="source_missing">Прошивка не предоставляет системные данные заряда наушников.</string>
+    <string name="battery_line">Кейс %1$s · Л %2$s · П %3$s</string>
+    <string name="bluetooth_permission_hint">Разрешите доступ к устройствам поблизости, чтобы карточка сразу исчезала при отключении наушников. Если запрос больше не появляется, включите разрешение в настройках приложения.</string>
+    <string name="bluetooth_permission_button">Разрешить доступ к Bluetooth</string>
+</resources>
